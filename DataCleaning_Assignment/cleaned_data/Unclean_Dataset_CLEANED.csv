@@ -1,0 +1,79 @@
+"Student_ID","First_Name","Last_Name","Age","Gender","Course","Enrollment_Date","Total_Payments"
+"101","John","Smith",22,"M","Data Science",2022-05-15,1200
+"102","Emily","Johnson",24,"F","Machine Learning",2022-03-18,1400
+"103","Michael","Williams",21,"M","Data Science",2022-06-25,900
+"104","Sarah","Brown",23,"F","Data Science",NA,1100
+"105","David","Davis",20,"M","Web Development",2021-09-10,950
+"106","Jessica","Miller",25,"F","Machine Learning",2022-04-22,1300
+"107","Brian","Wilson",19,"M","Data Science",2022-07-02,1000
+"108","Amanda","Taylor",22,"F","Machine Learning",2022-08-15,1200
+"109","William","Anderson",24,"M","Data Science",2022-01-10,950
+"110","Olivia","Martinez",26,"F","Data Science",2023-02-28,1150
+NA,"Davis","Brown",25,"M","Data Analytics",NA,20000
+NA,"Anita","West",24,"F",NA,NA,30000
+NA,"Olawale Akintola","",20,"M","Web Development",NA,30000
+NA,"Wike","Akintola",25,"M",NA,NA,36000
+NA,"Ayodele","",18,"F","Machine Learning",NA,37440
+"500","Jackson","Murphy",21,"M","Web Development",2023-06-05,1050
+NA,"Joseph","Williams",22,"F","Machine Learning",NA,20000
+NA,"Kylian","Eden",78,"M","Machine Learning",NA,20000
+NA,"Esther","Naomi",21,"F","Machine Learning",NA,20000
+NA,"Lay","Martin",22,"M","Web Development",NA,20000
+NA,"Rock","Shy",23,"M","Data Analytics",NA,NA
+"155","Benjamin","Thompson",20,"M","Web Development",2022-11-14,1050
+"156","Mia","Hernandez",23,"F","Machine Learning",2022-09-20,1350
+"157","Alexander","Davis",21,"M","Data Science",2022-07-05,920
+"114","Harper","Rodriguez",22,"F","Data Science",NA,1120
+"115","Daniel","White",24,"M","Web Development",2021-10-30,970
+"159","Emily","Murphy",21,"F","Machine Learning",2023-08-02,1270
+NA,"Adeniran","Omoshola",22,"F","Data Analysis",2021-07-01,50000
+NA,"Iwueze","Olaoluwa",23,"M","Data Analysis",2020-07-10,55000
+NA,"Faramotu Ismail","",23,"M","Data Analysis",2020-07-16,60500
+NA,"Ifarele","Adeola",23,"M","Data Analysis",2022-08-30,66550
+NA,"Folorunsho","Dada",22,"M","Web Development",2022-07-01,73205
+NA,"Ikechukwu","Victor",22,"M","Web Development",2024-07-01,80526
+NA,"Ahmed","Mohammed",23,"F","Web Development",2021-07-19,88578
+NA,"Binta","Sanni",22,"F","Web Development",2021-07-01,97436
+NA,"Chukwu","Ike",22,"M","Web Development",2022-07-01,107179
+NA,"Ola Enioluwa","",22,"F","Machine Learning",2021-01-01,117897
+NA,"Okafor","Chike",23,"M","Data Analysis",2020-07-11,129687
+NA,"Chika Nwosu","",23,"F","Data Analysis",2021-08-09,142656
+NA,"Eze Chinedu","",22,"M","Data Analysis",2023-07-01,156921
+NA,"Adaobi Ekeinde","",23,"M","Data Analysis",2023-07-09,172614
+NA,"Yusuf Ibrahim","",22,"M","Cyber Security",2005-08-01,189875
+NA,"Amaka Azikiwe","",23,"M","Cyber Security",2023-07-28,208862
+NA,"Onyeka Okonkwo","",23,"F","Cyber Security",2016-07-16,229749
+NA,"Chioma Adebayo","",22,"F","Cyber Security",2022-07-01,252724
+NA,"Ifeanyi Ekpo","",22,"F","Cyber Security",2022-07-01,277996
+NA,"Ngozi Abubakar","",20,"F","Cyber Security",2024-07-01,305795
+NA,"Abdul Nasiru","",21,"F","Cyber Security",2023-07-01,336375
+NA,"Zainab Adeyemi","",19,"F","Cyber Security",2022-07-01,370012
+NA,"Obinna Onwuka","",25,"F","Data Analysis",2023-07-09,407014
+NA,"Amina Osagie","",40,"M","Data Analysis",2005-08-01,447715
+NA,"Chinonso Uche","",23,"M","Data Analysis",2023-07-28,492487
+NA,"Femi Abdullahi","",22,"M","Data Analysis",2023-07-01,541735
+NA,"Halima Bakare","",23,"M","Data Analysis",2022-07-17,595909
+NA,"Chibuzo Mohammed","",21,"M","Data Analysis",2020-09-01,655500
+NA,"Oluchi Iwuoha","",22,"F","Machine Learning",2021-01-31,721050
+NA,"Emeka Anikulapo","",19,"M","Data Analysis",2024-07-19,793155
+NA,"Hadiza Ogundipe","",18,"M","Data Analysis",2022-08-06,872470
+NA,"Nneka Nwachukwu","",NA,"M","Web Development",2023-08-01,959717
+NA,"Adeola Okoro","",NA,"M","Web Development",2023-07-12,1055
+NA,"Idris Ibrahim","",23,"M","Web Development",2024-08-31,1161
+NA,"Chinyere Adeyemi","",23,"M",NA,2022-10-07,1277
+NA,"Umar Abdullahi","",22,"M","Web Development",2024-07-01,1405
+NA,"Nkem Adebayo","",20,"M","Web Development",2024-07-21,1545
+NA,"Ayodele Osagie","",22,"F","Machine Learning",2021-01-30,1700
+NA,"Chiwendu Ekpo","",21,"M","Machine Learning",2020-01-30,1870
+NA,"Fatima Azikiwe","",22,"F","Data Analysis",2021-07-01,2057
+NA,"Chukwudi Ekeinde","",19,"M","Cyber Security",2022-08-28,2262
+NA,"Kemi Uche","",18,"M","Cyber Security",2022-07-06,2489
+NA,"Jide Bakare","",18,"M","Cyber Security",2023-09-02,2738
+NA,"Adaobi Iwuoha","",19,"M","Cyber Security",2022-08-06,3012
+NA,"Suleiman Mohammed","",23,"M","Cyber Security",2020-09-25,3313
+NA,"Ifeoluwa Anikulapo","",23,"M","Cyber Security",2023-08-31,3644
+"232","Amina","Adekunle",21,"F","Machine Learning",2022-08-12,1270
+"234","Ibrahim","Okafor",22,"M","Data Science",2022-02-03,950
+"235","Zainab","Abiodun",23,"F","Web Development",2022-07-21,1050
+"236","Nasiru","Adebayo",24,"M","Data Science",2022-05-09,1120
+"237","Aisha","Okonkwo",25,"F","Machine Learning",2023-01-15,1300
